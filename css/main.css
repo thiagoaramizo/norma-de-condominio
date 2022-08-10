@@ -1,0 +1,28 @@
+:root {
+    --cor-primaria: #ff0000;
+    --cor-secundaria: #00ff00;
+    --cor-tercearia: #f0f0f5;
+    --cor-de-fundo: #ffffff;
+    --sombra: 3px 3px 10px -10px #000;
+}
+
+body {
+    font-family: 'Open Sans', Verdana, sans-serif;
+    background-color: var(--cor-tercearia);
+}
+
+h1 {
+    font-size: 24px;
+    font-weight: 600;
+    color: var(--cor-primaria);
+}
+
+#container {
+    width: 900px;
+    margin: 20px auto;
+    box-sizing: border-box;
+    padding: 30px;
+    background-color: var(--cor-de-fundo);
+    border-radius: 10px;
+    box-shadow: var(--sombra);
+}

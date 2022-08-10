@@ -1,0 +1,19 @@
+{
+  "name": "norma-de-condominio",
+  "version": "0.0.1",
+  "description": "Normalizador de normas de condomínio",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thiagoaramizo/norma-de-condominio.git"
+  },
+  "author": "Thiago Aramizo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thiagoaramizo/norma-de-condominio/issues"
+  },
+  "homepage": "https://github.com/thiagoaramizo/norma-de-condominio#readme"
+}
